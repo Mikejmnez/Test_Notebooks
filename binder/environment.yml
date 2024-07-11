@@ -25,6 +25,7 @@ dependencies:
   - jupyter-contrib-nbextensions
   - jupyterlab-rise
   - bokodapviewer
+  - jupyter_server_proxy
 
 
 
