@@ -11,6 +11,7 @@ dependencies:
 - tqdm
 - aiohttp
 - pandas
+- bokeh
 - matplotlib
 - shapely
 - jupyterlab
