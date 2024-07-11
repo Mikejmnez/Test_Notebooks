@@ -1,5 +1,7 @@
 # Test Notebooks
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mikejmnez/Test_Notebooks/main)
+
 Examples of OPeNDAP workflows for accessing, visualization and downloading data via OPeNDAP servers.
 Some of the examples include using the following packages
 
